@@ -7,10 +7,9 @@ AMC Bank Login System
 •	Usage
 •	Contributors
 Introduction
-
 AMC Bank Login System is a simple web application built using Flask, a lightweight Python web framework. This application provides a basic login functionality where users can enter their username and password to log in.
-Description
 
+Description
 This application consists of a single web page where users can enter their credentials. Upon submission of the form, the application checks the provided credentials against a predefined set of users and passwords. If the login is successful, the user is redirected to a page displaying "Login Successful"; otherwise, they are redirected to a page displaying "Login Failed".
 
 Functional Requirements
